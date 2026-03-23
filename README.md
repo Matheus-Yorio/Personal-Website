@@ -7,6 +7,7 @@ Este é o meu website pessoal, desenvolvido com o objetivo de apresentar meus pr
 Sou estudante de Ciência da Computação e estou constantemente aprendendo sobre desenvolvimento e programação. Este site funciona como um espaço onde compartilho minha jornada, experiências e trabalhos.
 
 🚀 Tecnologias Utilizadas
+
 HTML5
 CSS3
 
