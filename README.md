@@ -20,7 +20,9 @@ Início → Apresentação pessoal
 
 Sobre mim → Minha trajetória e interesses
 
-Projetos → Trabalhos e experiências
+Portifólio → Trabalhos e experiências
+
+Novidades → Atualizações sobre mim e o site
 
 Contato → Formulário e redes sociais
 
