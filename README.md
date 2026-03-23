@@ -17,8 +17,11 @@ CSS3
 O site está dividido em diferentes seções:
 
 Início → Apresentação pessoal
+
 Sobre mim → Minha trajetória e interesses
+
 Projetos → Trabalhos e experiências
+
 Contato → Formulário e redes sociais
 
 ⚡ Status do Projeto
