@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Matheus Yorio - Contato</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <a href="index.html" id="inicio">Início</a>
+        <a href="sobremim.html">Sobre mim</a>
+        <a href="portifolio.html">Portifólio</a>
+        <a href="novidades.html">Novidades</a>
+        <a href="contato.html">Contato</a>
+      </nav>
+    </header>
+
+    <aside>
+      <img src="MinhaFoto.jpeg" width="400" height="auto" alt="Foto" id="fotoprincipal"/>
+    </aside>
+    <main class="contato">
+      <article>
+        <h1>CONTATO</h1>
+
+        <p id="contatoconteudo">Plataformas sociais</p>
+
+        <div class="redessociais">
+          <a href="https://www.instagram.com/yorio.sz/" id="Instagram"
+            ><img src="instagramlogo.png" width="50" height="auto"
+          /></a>
+          <a href="https://github.com/Matheus-Yorio" id="GitHub"><img src="githublogo.png" width="50" height="auto"></a>
+        </div>
+        <p id="contatosubconteudo">
+          Caso tenha alguma sugestão, me envie um e-mail!
+        </p>
+
+        <form action="emailenviado.html" class="formulario">
+          <label for="nome" id="labelnome">Nome:</label>
+          <input
+            type="text"
+            id="nomeplaceholder"
+            name="nome"
+            placeholder="Seu nome aqui"
+            required
+            placeholder
+          />
+          <label for="email" id="labelemail">E-mail:</label>
+          <input
+            type="email"
+            id="emailplaceholder"
+            name="email"
+            required
+            placeholder="Digite seu e-mail aqui"
+          />
+          <br />
+          <textarea id="areatext" name="mensagem" rows="5"
+          required placeholder=""></textarea>
+          <button type="submit" id="enviar">Enviar</button>
+        </form>
+      </article>
+    </main>
+  </body>
+</html>
